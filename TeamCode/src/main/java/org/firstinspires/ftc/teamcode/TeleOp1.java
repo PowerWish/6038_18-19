@@ -40,7 +40,6 @@ import com.qualcomm.robotcore.util.Range;
 //hello1234
 //this is rohan 1
 //12346789
-//456790
 //test at 409pm 
 
 @TeleOp(name="Basic: Iterative OpMode", group="Iterative Opmode")
