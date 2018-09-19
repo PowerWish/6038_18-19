@@ -36,19 +36,8 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.ElapsedTime;
 import com.qualcomm.robotcore.util.Range;
 
-/*LOL MEMES*/
-//hello1234
-//this is rohan 1
-//12346789
-//test at 409pm
-//please tell me this works
-// hello
-//gettodeltaco
-//test @ 344
-
-//09ew
 @TeleOp(name="Basic: Iterative OpMode", group="Iterative Opmode")
-@Disabled
+//@Disabled
 public class TeleOp1 extends OpMode
 {
     // Declare OpMode members.
